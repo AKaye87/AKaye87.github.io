@@ -1,0 +1,16 @@
+#header {font-size: 100px;
+border: 5px solid white; 
+margin-bottom: 1cm;
+ }
+body {text-align: center;
+	background: url("https://static.pexels.com/photos/34088/pexels-photo.jpg");
+	background-size: cover;
+	color: #BF930A;
+	font-family: Helvetica;
+}
+hr {width: 200px;}
+ul {text-align: center;
+	list-style-type: none;
+}
+h3 {color: #FFFFFF;}
+#slogan {font-style: italic;}
