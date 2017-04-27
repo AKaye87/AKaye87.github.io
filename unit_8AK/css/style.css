@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+header {
+	font-size: 3em;
+	font-family: 'Open Sans Condensed', sans-serif;
+	background-color: #ffffff;
+	text-align: center;
+	padding: 0px;
+	margin: 0px; 
+}
+nav {
+	margin: 0 0 0 0;
+	background-color: #ffffff;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 2em;
+	width: 100%;
+	overflow: hidden;
+	border: 1px black solid;
+	text-decoration: none;
+	text-align: center;
+}
+
+a {background-color: #ffffff
+	color: white;
+	text-decoration: none;
+	display: block;
+	float: left;
+	padding: 10px;
+
+}
+article {
+	background-color: #E89C6C;
+	padding: 20px;
+	width: 20px;
+	color: black;
+}
+section {
+	background-color: #FFE2B8;
+	padding: 20px;
+}
+footer {
+	background-color: #ffffff;
+	border: 1px black solid;
+	padding: 20px;
+}
+body {color: #BF930A;
+	font-family: 'Open Sans Condensed', sans-serif;;
+}
+h1 {font-family: 'Open Sans Condensed', sans-serif;;
+}
+
+
+#two_column {
+    background-color: #ffffff;
+    padding: 10%;
+}
+
+#left {
+    background-color: #ffffff;
+    padding: 0;
+    float: right;
+    width: 50%;
+    color: #000000;
+    font-size: 2em;
+    text-align: center;
+ 
+}
+
+#right {
+    background-color: #ffffff;
+    width: 50%;
+    padding: 0;
+    float: left;
+
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+	font-size: 0;
+} 
+
+a:hover {
+	background-color: #aaaaaa;
+}
